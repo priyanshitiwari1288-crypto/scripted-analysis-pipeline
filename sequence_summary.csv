@@ -1,0 +1,4 @@
+sequence_id,length,gc_percent,count_A,count_C,count_G,count_T,count_N
+sample_dna_1,29,48.276,7,6,8,8,0
+sample_dna_2,26,61.538,5,8,8,5,0
+sample_dna_3,28,42.857,8,8,4,8,0
